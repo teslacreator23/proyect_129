@@ -1,0 +1,14 @@
+body{
+    background-color: greenyellow;
+}
+span#puntuacion{
+    font-size: 30px;
+    border-left: 10px;
+}
+span#tiempo{
+    font-size: 30px;
+    float:right
+}
+span#dibujo a realizar{
+ font-size: 20px;
+}
